@@ -43,7 +43,7 @@ $('.saveButton').on('click', function () {
   localStorage.setItem(timeValue, textValue);
 });
 
-// Get item from local storage. Referencing the ID of hours and class description of HTML
+// Get item from local storage. Referencing the ID of hours and class description of HTML. Assistance through StackOverflow. 
 $('#hour8 .description').val(localStorage.getItem('hour8'));
 $('#hour9 .description').val(localStorage.getItem('hour9'));
 $('#hour10 .description').val(localStorage.getItem('hour10'));
