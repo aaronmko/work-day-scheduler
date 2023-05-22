@@ -32,6 +32,10 @@ THEN the saved events persist
 
 ![user clicks time slot to add/edit events on scheduler](./assets/05-third-party-apis-homework-demo.gif)
 
+The deployed application can be accessed here:
+
+https://aaronmko.github.io/work-day-scheduler/
+
 ## Grading Requirements
 
 **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
